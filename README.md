@@ -66,13 +66,13 @@
 * Android Taipei 開發者社群
     * Facebook社團： https://www.facebook.com/groups/AndroidTaipei/
 
-### APPLE
+### Mobile App 開發
 
-* AppDC 台灣App開發者社群
+* AppDC 台灣 App 開發者社群
     * Facebook社團： https://www.facebook.com/groups/appdc/
 * Cocoaheads Taipei
     * Facebook社團： [https://www.facebook.com/groups/cocoaheads.taipei/](https://www.facebook.com/groups/cocoaheads.taipei/?notif_id=1530243782623050&notif_t=group_r2j_approved&ref=notif)
-* swift 線上讀書會
+* Swift 線上讀書會
     * Facebook社團： https://www.facebook.com/groups/238948643131478/
 * Swift Developers Taiwan
     * Facebook社團： https://www.facebook.com/groups/swift.study/
@@ -83,11 +83,7 @@
     * Facebook社團： https://www.facebook.com/groups/twjug/
     * GitHub： https://github.com/twjug/jobs 
 
-### JavaScript 
-
-* 
-
-### 前端社群
+### 前端開發相關社群
 
 * 台北前端社群
     * Facebook社團： https://www.facebook.com/groups/f2e.taipei/
