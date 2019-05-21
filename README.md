@@ -1,14 +1,23 @@
 # 台灣社群列表 Awesome Taiwan Community
 
-精選台灣舉辦的線上、線下社群，囊括以技術、設計、產品及創業、科技創新等議題為主題的社群活動。
+![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
+
+
+交流互動讓自己有更進一步的成長，快來參與社群吧 🚀
+
+本 Repo 精選台灣目前活躍的線上與線下社群，主題包含技術、設計、產品、創業以及科技創新。
+如果有其他很棒的社群活動，超級歡迎你開一個 [issue](https://github.com/StarRocket/awesome-taiwan-community/issues) 或者是直接提交 [pull request](https://github.com/StarRocket/awesome-taiwan-community/pulls) 一同維護更新。
+
+
+
 
 ## 開源社群
 
 ### Elixir
 
 * Elixir Taiwan
-    * Facebook社團：[https://www.facebook.com/groups/elixir.tw/](https://www.facebook.com/groups/elixir.tw/about/)
-    * Meetup:： https://www.meetup.com/elixirtw-taipei/
+    * Facebook 社團：[https://www.facebook.com/groups/elixir.tw/](https://www.facebook.com/groups/elixir.tw/about/)
+    * Meetup： https://www.meetup.com/elixirtw-taipei/
 
 ### PHP
 
@@ -30,12 +39,12 @@
     * 官網： https://2018.rubyconf.tw/
     * Twitter： https://twitter.com/rubytaiwan
 * Rails Taiwan
-    * Facebook專頁： https://www.facebook.com/railstaiwan/
+    * Facebook 專頁： https://www.facebook.com/railstaiwan/
     * Meetup： https://www.meetup.com/rails-taiwan/
     * Twitter： https://twitter.com/RailsTuesday
 * 五倍紅寶石
     * 官網： https://5xruby.tw/
-    * Facebook專頁： https://www.facebook.com/5xruby
+    * Facebook 專頁： https://www.facebook.com/5xruby
     * GitHub： https://github.com/5xruby
     * Twitter： https://twitter.com/5xruby
 * Ruby on Rails 新手村
@@ -47,105 +56,105 @@
 
 * Taiwan R User Group
     * Meetup： https://www.meetup.com/Taiwan-R/
-    * Facebook專頁： http://www.facebook.com/Tw.R.User
+    * Facebook 專頁： http://www.facebook.com/Tw.R.User
         
 
 ### Python
 
 * Python Taiwan
-    * Facebook社團： https://www.facebook.com/groups/pythontw
+    * Facebook 社團： https://www.facebook.com/groups/pythontw
     * Meetup： https://www.meetup.com/Taipei-py/
 
 ### Android
 
 * Android Developer開發讀書會
-    * Facebook社團： https://www.facebook.com/groups/523386591081376/
+    * Facebook 社團： https://www.facebook.com/groups/523386591081376/
 
 * Android 台灣開發者社群
-    * Facebook社團： [https://www.facebook.com/groups/270034869726161/](https://www.facebook.com/groups/270034869726161/?ref=br_rs)
+    * Facebook 社團： [https://www.facebook.com/groups/270034869726161/](https://www.facebook.com/groups/270034869726161/?ref=br_rs)
 * Android Taipei 開發者社群
-    * Facebook社團： https://www.facebook.com/groups/AndroidTaipei/
+    * Facebook 社團： https://www.facebook.com/groups/AndroidTaipei/
 
 ### Mobile App 開發
 
 * AppDC 台灣 App 開發者社群
-    * Facebook社團： https://www.facebook.com/groups/appdc/
+    * Facebook 社團： https://www.facebook.com/groups/appdc/
 * Cocoaheads Taipei
-    * Facebook社團： [https://www.facebook.com/groups/cocoaheads.taipei/](https://www.facebook.com/groups/cocoaheads.taipei/?notif_id=1530243782623050&notif_t=group_r2j_approved&ref=notif)
+    * Facebook 社團： [https://www.facebook.com/groups/cocoaheads.taipei/](https://www.facebook.com/groups/cocoaheads.taipei/?notif_id=1530243782623050&notif_t=group_r2j_approved&ref=notif)
 * Swift 線上讀書會
-    * Facebook社團： https://www.facebook.com/groups/238948643131478/
+    * Facebook 社團： https://www.facebook.com/groups/238948643131478/
 * Swift Developers Taiwan
-    * Facebook社團： https://www.facebook.com/groups/swift.study/
+    * Facebook 社團： https://www.facebook.com/groups/swift.study/
 
 ### Java
 
 * TWJUG
-    * Facebook社團： https://www.facebook.com/groups/twjug/
+    * Facebook 社團： https://www.facebook.com/groups/twjug/
     * GitHub： https://github.com/twjug/jobs 
 
 ### 前端開發相關社群
 
 * 台北前端社群
-    * Facebook社團： https://www.facebook.com/groups/f2e.taipei/
+    * Facebook 社團： https://www.facebook.com/groups/f2e.taipei/
 * Front-End Developers Taiwan
-    * Facebook社團： https://www.facebook.com/groups/521085554595481/
+    * Facebook 社團： https://www.facebook.com/groups/521085554595481/
     * 官網： http://www.f2e.tw/
     * KKTIX： https://f2e.kktix.cc/
 
 ### 人工智慧
 
 * 台灣「人工智慧」社團
-    * Facebook社團： https://www.facebook.com/groups/Taiwan.AI.Group/
+    * Facebook 社團： https://www.facebook.com/groups/Taiwan.AI.Group/
 
 ### Hacker
 
 * Hacks/Hackers Taipei
-    * Facebook社團： https://www.facebook.com/groups/hackshackerstaipei/
+    * Facebook 社團： https://www.facebook.com/groups/hackshackerstaipei/
     * 官網： http://www.hackshackers.taipei/
     * GitHub：[https://github.com/hackshackerstaipei](http://www.hackshackers.taipei/)
 * Hacking Thursday
-    * Facebook社團： https://www.facebook.com/groups/hackingday/
+    * Facebook 社團： https://www.facebook.com/groups/hackingday/
     * 官網： http://www.hackingthursday.org/
     * Meetup： https://www.meetup.com/hackingthursday/
 * Hackernest Tech Social Taiwan
-    * Facebook專頁： https://www.facebook.com/pg/Hackernest-Tech-Social-Taiwan-572455929782279/
+    * Facebook 專頁： https://www.facebook.com/pg/Hackernest-Tech-Social-Taiwan-572455929782279/
 
 ### Facebook
 
 * Facebook Developer Circle: Taipei
-    * Facebook社團： https://www.facebook.com/groups/DevCTaipei
+    * Facebook 社團： https://www.facebook.com/groups/DevCTaipei
     * 全球官網：[https://developers.facebook.com/](https://developers.facebook.com/products/)
 
 ### Google
 
 * GDG Taipei
-    * Facebook專頁： https://www.facebook.com/GDG.Taipei/
-    * Facebook社團： https://www.facebook.com/groups/1614248835348810/
+    * Facebook 專頁： https://www.facebook.com/GDG.Taipei/
+    * Facebook 社團： https://www.facebook.com/groups/1614248835348810/
     * Meetup： https://www.meetup.com/GDGTaipei/
 
 ### Functional Programming
 
 * Functional Thursday
-    * Facebook專頁： https://www.facebook.com/FunctionalThursday
-    * Facebook社團： https://www.facebook.com/groups/functioanl.thursday/
+    * Facebook 專頁： https://www.facebook.com/FunctionalThursday
+    * Facebook 社團： https://www.facebook.com/groups/functioanl.thursday/
     * Meetup： https://www.meetup.com/Functional-Thursday/
 
 ### 資料科學
 
 * Taiwan Hadoop User Group
-    * Facebook社團： https://www.facebook.com/groups/hadoop.tw/
+    * Facebook 社團： https://www.facebook.com/groups/hadoop.tw/
     * 官網： http://2017.datacon.tw/
 
 ### 敏捷開發
 
 * 台灣敏捷社群
-    * Facebook專頁： https://www.facebook.com/AgileCommunity.tw/
+    * Facebook 專頁： https://www.facebook.com/AgileCommunity.tw/
     * KKTIX： https://agilecommtw.kktix.cc/
 
 ### Mozilla 
 
 * Mozilla 台灣社群
-    * Facebook專頁： https://www.facebook.com/MozTW/
+    * Facebook 專頁： https://www.facebook.com/MozTW/
     * 官網： http://moztw.org/
 
 ### SLACK
@@ -156,7 +165,7 @@
 ### Open source
 
 * Taipei Open Source Software User Group
-    * Facebook社團： https://www.facebook.com/groups/tossug/
+    * Facebook 社團： https://www.facebook.com/groups/tossug/
 
 ### **OCF 開放文化基金會**
 
@@ -171,39 +180,39 @@
 ## 設計社群
 
 * Sketch & Design - Taipei
-    * Facebook專頁： https://www.facebook.com/SketchTaipei/
+    * Facebook 專頁： https://www.facebook.com/SketchTaipei/
     * Meetup： https://www.meetup.com/Sketch-Taipei-Meetup/
 * TalkUX
-    * Facebook專頁： https://www.facebook.com/talkux1/
+    * Facebook 專頁： https://www.facebook.com/talkux1/
     * 官網： http://www.talk-ux.com/
 * UserXper 悠識數位
-    * Facebook專頁： https://www.facebook.com/userxper.tw/
+    * Facebook 專頁： https://www.facebook.com/userxper.tw/
     * 官網： https://hpx.tw/
 * Design Resources Lab
-    * Facebook專頁： https://www.facebook.com/TheDRLab/
+    * Facebook 專頁： https://www.facebook.com/TheDRLab/
 * UiGathering 台灣使用者經驗設計協會
-    * Facebook專頁： https://www.facebook.com/UiGathering/
+    * Facebook 專頁： https://www.facebook.com/UiGathering/
 * AAPD - As A Product Designer
-    * Facebook專頁： https://www.facebook.com/AAPD.tw/
+    * Facebook 專頁： https://www.facebook.com/AAPD.tw/
 * Taiwan UI/UX Designers
-    * Facebook社團： https://www.facebook.com/groups/TaiwanUIUXDesigners/
+    * Facebook 社團： https://www.facebook.com/groups/TaiwanUIUXDesigners/
 * UI/UX Taiwan
-    * Facebook社團： https://www.facebook.com/groups/iOSUIUX/
+    * Facebook 社團： https://www.facebook.com/groups/iOSUIUX/
 * UX 四神湯
-    * Facebook專頁： https://www.facebook.com/UXeastmeetswest
+    * Facebook 專頁： https://www.facebook.com/UXeastmeetswest
     * Medium： https://medium.com/uxeastmeetswest
 * 設計大舌頭
-    * Facebook專頁： https://www.facebook.com/designtongue/
+    * Facebook 專頁： https://www.facebook.com/designtongue/
     * 部落格： https://designtongue.me/
 * vide 創誌
     * 官網： https://vide.tw/
-    * Facebook專頁： https://www.facebook.com/videmedia
+    * Facebook 專頁： https://www.facebook.com/videmedia
 * 台灣互動設計協會
     * 官網： http://www.ixda.org.tw/
 * DITL 設計資訊與思考研究室 Design Information & Thinking Lab by 唐玄輝老師
-    * Facebook專頁： https://www.facebook.com/proftang/
+    * Facebook 專頁： https://www.facebook.com/proftang/
 * UX /UI Art 線上讀書會
-    * Facebook社團： https://www.facebook.com/groups/670166459806094/
+    * Facebook 社團： https://www.facebook.com/groups/670166459806094/
 
 ###   KOL
 
@@ -218,7 +227,7 @@
 ## 產品社群
 
 * ProductTank Taipei
-    * Facebook專頁： https://www.facebook.com/pg/ProductTankTaipei/
+    * Facebook 專頁： https://www.facebook.com/pg/ProductTankTaipei/
 
 ## 女性科技社群
 
@@ -234,11 +243,11 @@
 
 ## 學生社群
 
-* 大學新創平台Maker In College： https://www.facebook.com/makerincollege/
+* 大學新創平台 Maker In College： https://www.facebook.com/makerincollege/
 * 政大創聯會 NCCU EA： https://www.facebook.com/NCCUEA/
 * 台大創創中心： https://www.facebook.com/ntutec.fanpage/
 * Rookiefund
-    * Facebook專頁： https://www.facebook.com/RookieFund/
+    * Facebook 專頁： https://www.facebook.com/RookieFund/
     * 官網： https://www.rookie.fund/
 
 * * *
@@ -258,7 +267,7 @@
     * Taipei.py 月會： https://www.meetup.com/Taipei-py/events/
     * Python Data Meetup： https://www.meetup.com/Taipei-py/events/
 * Elixir Taiwan @ Taipei
-    * Elixir台灣 台北 Meetup ： https://www.meetup.com/elixirtw-taipei/events/
+    * Elixir 台灣 台北 Meetup ： https://www.meetup.com/elixirtw-taipei/events/
 * Hacks/Hackers Taipei
     * Hacks/Hackers Taipei 小聚： https://old.accupass.com/org/detail/r/1611210458301528244647/1/0
 * Swift Taipei User Group
