@@ -294,6 +294,10 @@
     * NGO 的資安討論小聚： https://ocftw.kktix.cc/
 * ProductTank Taipei
     * ProductTank Taipei： https://www.facebook.com/pg/ProductTankTaipei/events/
+* RGBA & F2E Meetup
+    由 Front-End Developers Taiwan 每月輪流舉辦前端技術 / 設計分享會，會分享工程師 / 設計師會碰到的各種議題，最新工具、讀書心得、技術和合作方式。歡迎來現場邊吃邊聊
+    * KKTIX：https://f2e.kktix.cc/
+
 
 ## 論壇、研討會
 
