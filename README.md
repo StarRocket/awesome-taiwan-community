@@ -446,6 +446,7 @@
 
 * Yourator 新創職涯平台： https://www.yourator.co/
 * Cake Resume： https://www.cakeresume.com/
+* ResumeAI： https://withresumeai.com/ — AI resume builder + free ATS checker
 
 ### 政府補助計畫
 
